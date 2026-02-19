@@ -24,7 +24,7 @@ My tech stack is as follows:
 **Fun facts**
 - I love Twenty One Pilots (please come Australia...)
 - I have one cat I've had for 9 years :)
-- My hobbies include sport (mainly gym, boxing and running) and reading
+- My hobbies include boxing, running and reading
 
 <!--
 **lampyyyy18/lampyyyy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
