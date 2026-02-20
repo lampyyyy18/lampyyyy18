@@ -20,6 +20,9 @@ My tech stack is as follows:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0+-blue?logo=sqlalchemy&style=for-the-badge)
+![Psycopg2](https://img.shields.io/badge/psycopg-3.1.18%2B-green?logo=psycopg)
+
 
 **Fun facts**
 - I love Twenty One Pilots (please come Australia...)
